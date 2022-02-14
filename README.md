@@ -11,4 +11,4 @@ Mahdi Chiboub 300094626
 ![Diagram 03](https://github.com/mchib031/csi2532/blob/laboratoire4/Diagrams/diagramrelationelq5.png)
 
 # Question 4
-![Diagram 04](https://github.com/mchib031/csi2532/blob/laboratoire4/Diagrams/q4.png)
+![Diagram 04](https://github.com/mchib031/csi2532/blob/laboratoire4/Diagrams/diagramrelationelq6.png)
