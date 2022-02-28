@@ -8,4 +8,4 @@ Mahdi Chiboub 300094626
 ![TABLE de migrations](https://github.com/mchib031/csi2532/blob/laboratoire5/screenshots/migrations.png)
 
 # TEMP
-![DATABASE TEMP pour l'execution correcte](https://github.com/mchib031/csi2532/blob/laboratoire5/screenshots/temp database.png)
+![DATABASE TEMP pour l'execution correcte](https://github.com/mchib031/csi2532/blob/laboratoire5/screenshots/temp_database.png)
