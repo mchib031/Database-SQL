@@ -1,0 +1,2 @@
+ALTER TABLE courses
+ADD PRIMARY KEY(id);
